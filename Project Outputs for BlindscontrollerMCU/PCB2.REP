@@ -1,0 +1,18 @@
+*************************************************************
+FileName = PCB2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : PCB2.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
